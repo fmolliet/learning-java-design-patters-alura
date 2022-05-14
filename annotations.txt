@@ -1,0 +1,22 @@
+Design Patterns em Java I
+
+Solução comum para um problema recorrente ao utilizar o paradigma da orientação a objetos
+
+Tem 3 tipos de padrão:
+
+- Criacionais
+- Estrututrais
+- Comportamentais
+
+Padrões:
+- Strategy
+- Chain of responsability
+- Template Method
+- State
+- Command
+- Observer
+
+Strategy: é indicado quando a regra é aplicada em um parâmetro recebido é o que determina qual a estratégia que será utilizada.
+
+
+Chain of responsability: Precisa percorrer os tipos de descontos se será aplicado.
